@@ -8,6 +8,8 @@
 
 > 憋整没用的，给我看能跑的代码。 —— 李纳思·度沃斯
 
+> No other's documents. Show your running code —— Tsing Yayin
+
 # 安全生产注意事项
 
 * 该Github用户水平极差，请不要在项目高效性、稳定性、鲁棒性等任何正向BUFF上做出任何期望
