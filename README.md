@@ -1,4 +1,4 @@
-**不要说文档上怎样怎样，让我看见你带代码能正确无误的跑起来 —— Tsing Yayin**
+> **不要说文档上怎样怎样，让我看见你的代码能正确无误的跑起来**
 
 # 安全生产指标
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsingyayin&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsingyayin)](https://github.com/anuraghazra/github-readme-stats) |
