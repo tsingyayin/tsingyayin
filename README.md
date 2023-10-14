@@ -1,14 +1,16 @@
-> **不要说文档上怎样怎样，让我看见你的代码能正确无误的跑起来**
-
 # 安全生产指标
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsingyayin&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsingyayin&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
 
 # 安全生产口号
 
-> Talk is cheap. Show me your code. —— Linus Torvalds
+Numquam ponenda est pluralitas sine necessitate.
 
-> 憋整没用的，给我看能跑的代码。 —— 李纳思·度沃斯
+Pluralitas non est ponenda sine necessitate.
+
+Frustra fit per plura quod potest fieri per pauciora.
+
+Entia non sunt multiplicanda praeter necessitatem.
 
 # 安全生产注意事项
 
