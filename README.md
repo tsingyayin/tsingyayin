@@ -16,4 +16,4 @@ Entia non sunt multiplicanda praeter necessitatem.
 
 * 该Github用户水平极差，请不要在项目高效性、稳定性、鲁棒性等任何正向BUFF上做出任何期望
 * 该Github用户又菜又爱玩，遇到她不喜欢的代码一定会喷一遍
-* 该Github用户认为不会写，不会用C\C++的程序员不是好程序员
+* 该Github用户认为不喜欢指针的程序员不是好程序员
